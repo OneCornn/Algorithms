@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(Algorithm)
+add_executable(gcd_algorithm main.c gcd.c)
+enable_testing()
+add_executable(test_gcd test_gcd.c gcd.c)
+add_test(NAME gcd_test COMMAND test_gcd)

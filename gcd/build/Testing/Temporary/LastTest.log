@@ -1,0 +1,20 @@
+Start testing: Dec 09 22:48 CET
+----------------------------------------------------------
+1/1 Testing: gcd_test
+1/1 Test: gcd_test
+Command: "/home/user1/prog/Algorithms/gcd/build/test_gcd"
+Directory: /home/user1/prog/Algorithms/gcd/build
+"gcd_test" start time: Dec 09 22:48 CET
+Output:
+----------------------------------------------------------
+Test 1 passed
+Test 6 passed
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"gcd_test" end time: Dec 09 22:48 CET
+"gcd_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 09 22:48 CET

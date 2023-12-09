@@ -1,0 +1,5 @@
+/home/user1/prog/Algorithms/gcd/build/CMakeFiles/gcd_algorithm.dir
+/home/user1/prog/Algorithms/gcd/build/CMakeFiles/test_gcd.dir
+/home/user1/prog/Algorithms/gcd/build/CMakeFiles/test.dir
+/home/user1/prog/Algorithms/gcd/build/CMakeFiles/edit_cache.dir
+/home/user1/prog/Algorithms/gcd/build/CMakeFiles/rebuild_cache.dir

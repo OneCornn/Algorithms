@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test_gcd.dir/test_gcd.c.o CMakeFiles/test_gcd.dir/gcd.c.o -o test_gcd 
